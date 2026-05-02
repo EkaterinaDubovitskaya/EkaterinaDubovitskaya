@@ -70,12 +70,13 @@
 <br>
 
 ## 🪴 Практика и стажировка
-[<img src="/certificate_auto.png" width="280px" hspace="10px" alt="Сертификат об окончании стажировки»">](https://raw.githubusercontent.com/German-D/German-D/main/certificate_auto.png)
+[<img src="/stepik-certificate.jpg" width="280px" hspace="10px" alt="Сертификат о прохождении курса Postman-ниндзя: с нуля до автотестов»">](https://raw.githubusercontent.com/EkaterinaDubovitskaya/EkaterinaDubovitskaya/refs/heads/main/stepik-certificate.jpg)
+[<img src="/stepik.jpg" width="280px" hspace="10px" alt="Сертификат о прохождении курса Старый Новый баг»">](https://raw.githubusercontent.com/EkaterinaDubovitskaya/EkaterinaDubovitskaya/refs/heads/main/stepik.jpg)
 
 <br>
 
 ## 🎒 Образование
-[<img src="/diploma-with-number_ru.png" width="280px" hspace="10px" alt="Диплом»">](https://raw.githubusercontent.com/German-D/German-D/refs/heads/main/diploma-with-nurc="/Letter12.png" width="280px" hspace="10px" alt="Рекомендательное письмо»">](https://raw.githubusercontent.com/German-D/German-D/main/Letter12.png)
+[<img src="/certificate.png" width="280px" hspace="10px" alt="Сертификат о прохождении базового курса по профессии Инженер по тестированию»">](https://raw.githubusercontent.com/EkaterinaDubovitskaya/EkaterinaDubovitskaya/refs/heads/main/certificate.png1)
 
 <br>
 
