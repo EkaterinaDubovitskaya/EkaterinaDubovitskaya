@@ -77,6 +77,7 @@
 
 ## 🎒 Образование
 [<img src="/certificate.png" width="280px" hspace="10px" alt="Сертификат о прохождении базового курса по профессии Инженер по тестированию»">](https://raw.githubusercontent.com/EkaterinaDubovitskaya/EkaterinaDubovitskaya/refs/heads/main/certificate.png1)
+[<img src="/certificate_engineer.png" width="280px" hspace="10px" alt="Сертификат о прохождении курса по профессии Инженер по тестированию»">](https://raw.githubusercontent.com/EkaterinaDubovitskaya/EkaterinaDubovitskaya/refs/heads/main/certificate_engineer.png)
 
 <br>
 
